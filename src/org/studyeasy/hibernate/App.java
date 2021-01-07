@@ -80,7 +80,7 @@ public class App {
 		
 		*/
 		
-		Deleting a record from database with hibernate
+		//Deleting a record from database with hibernate
 		
 		try {
 			//1-Create object of entity class type
